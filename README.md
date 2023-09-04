@@ -1,4 +1,4 @@
-![Header](https://github.com/EsmeraldaACar/EsmeraldaACar/assets/63943574/5ced8304-cb7e-47dd-8011-08ff62bc7d09)
+![Header](https://github.com/EsmeraldaACar/EsmeraldaACar/assets/63943574/f43dd7eb-b2f2-4d2d-a856-6cbbd1cea0da)
 
 ### Hi there, I'm Esmeralda Arista 👋
 

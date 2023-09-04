@@ -1,16 +1,21 @@
-### Hi there 👋
+![Header](https://github.com/EsmeraldaACar/EsmeraldaACar/assets/63943574/5ced8304-cb7e-47dd-8011-08ff62bc7d09)
 
-<!--
-**EsmeraldaACar/EsmeraldaACar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, I'm Esmeralda Arista 👋
 
-Here are some ideas to get you started:
+I'm a passionate and creative software developer. My expertise lies in building web applications, designing intuitive user interfaces, and solving complex problems with code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on my personal project - [Online Shop](https://github.com/EsmeraldaACar/Online_Shop)
+- 🌱 I’m currently learning Generative AI
+- 👯 I’m looking to collaborate on open source projects in my free time
+
+### 🚀 Skills and Technologies
+
+- **Frontend Development**: HTML, CSS, JavaScript, React, Vue
+- **Backend Development**: Node.js, Serverless, JavaScript
+- **Database**: MongoDB, MySQL, PostgreSQL
+- **Version Control**: Git, GitHub
+- **Programming Languages**: PHP, JavaScript, Java
+
+### 📊 GitHub Stats
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)](https://github.com/yourusername)

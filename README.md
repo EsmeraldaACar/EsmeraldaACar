@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Esmeralda Arista 👋
 
-I'm a passionate and creative software developer. My expertise lies in building web applications, designing intuitive user interfaces, and solving complex problems with code.
+I am a passionate and creative software developer. My expertise lies in building web applications, creating intuitive user interfaces and solving complex problems with code.
 
 - 🔭 I’m currently working on my personal project - [Online Shop](https://github.com/EsmeraldaACar/Online_Shop)
 - 🌱 I’m currently learning Generative AI
